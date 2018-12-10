@@ -1,0 +1,42 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Delete" count="30" />
+      <entry action="$Paste" count="3" />
+      <entry action="$Undo" count="17" />
+      <entry action="Android.BuildApk" count="1" />
+      <entry action="Android.RunAndroidAvdManager" count="6" />
+      <entry action="Android.RunAndroidSdkManager" count="11" />
+      <entry action="Android.SyncProject" count="2" />
+      <entry action="ChangesView.ApplyPatch" count="1" />
+      <entry action="CheckForUpdate" count="4" />
+      <entry action="ChooseRunConfiguration" count="1" />
+      <entry action="CleanGradleProject" count="13" />
+      <entry action="CloseProject" count="1" />
+      <entry action="CodeCompletion" count="1" />
+      <entry action="DialogOkAction Enter" count="1" />
+      <entry action="EditorBackSpace" count="1015" />
+      <entry action="EditorChooseLookupItem" count="485" />
+      <entry action="EditorCopy" count="27" />
+      <entry action="EditorDelete" count="95" />
+      <entry action="EditorDown" count="714" />
+      <entry action="EditorEnter" count="202" />
+      <entry action="EditorLeft" count="217" />
+      <entry action="EditorPageUp" count="1" />
+      <entry action="EditorPaste" count="37" />
+      <entry action="EditorRight" count="490" />
+      <entry action="EditorSplitLine" count="2" />
+      <entry action="EditorTab" count="10" />
+      <entry action="EditorUp" count="330" />
+      <entry action="FileChooser.GotoDesktop" count="3" />
+      <entry action="FileChooser.GotoHome" count="2" />
+      <entry action="FileChooser.GotoProject" count="2" />
+      <entry action="FileChooser.ShowHiddens" count="1" />
+      <entry action="GotoDeclaration" count="1" />
+      <entry action="InvalidateCaches" count="6" />
+      <entry action="MakeGradleProject" count="26" />
+      <entry action="NewProject" count="2" />
+      <entry action="OpenFile" count="10" />
+      <entry action="RebuildGradleProject" count="2" />
+      <entry action="RevealIn" count="2" />
+      <entry action="Run" count=

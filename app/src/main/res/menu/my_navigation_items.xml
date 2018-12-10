@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/btnhighlight"
+        android:title="@string/highlight"
+        android:icon="@drawable/ic_format_color_fill_black_24dp"/>
+    <item android:id="@+id/btnbold"
+        android:title="@string/bold"
+        android:icon="@drawable/ic_format_bold_black_24dp"/>
+    <item android:id="@+id/btnunderline"
+        android:title="@string/underline"
+        android:icon="@drawable/ic_format_underlined_black_24dp"/>
+    <item android:id="@+id/micicon"
+        android:title="Talk"
+        android:icon="@drawable/micicon"/>
+    <item android:id="@+id/checkText"
+        android:icon="@drawable/ic_child_care_black_24dp"
+        android:title="Snap"/>
+</menu>
